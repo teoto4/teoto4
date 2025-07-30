@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Maksym!
 
-<!--
-**teoto4/teoto4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior Front-End developer passionate about building responsive web applications using modern technologies. I recently completed my training at the "ШАГ" Academy and participated in the team development of a full-featured e-commerce project.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Frontend:** Angular, TypeScript, HTML, SCSS
+- **Backend:** Node.js + Express, MongoDB
+- **Other:** REST APIs, express-session, custom Angular forms with validation, image upload via URL, modal dialogs, responsive layout, Git & GitHub
+
+---
+
+## 🧩 Projects
+
+### 🎓 [Mini-Yozetka (Team Diploma Project)](https://github.com/teoto4/Mini-Yozetka)
+An Angular + Express-based online store with session-based authentication, user profiles, product management (add/edit/delete), and desktop-friendly design.
+
+<!-- Add more projects below if needed -->
+<!-- ### 🛠 [My Pet Project](https://github.com/...) -->
+<!-- Brief description -->
+
+---
+
+## 📫 Contact
+
+- 📧 Email: teotomaks4@gmail.com  
+- 📱 Phone: +380 93 136 5937  
+- 💻 GitHub: [@teoto4](https://github.com/teoto4)
+
+---
+
+Thanks for visiting my profile! 🌟  
+I'm open to junior developer roles and looking to grow in a team of passionate professionals.
