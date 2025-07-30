@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Maksym!
 
-I'm a junior Front-End developer passionate about building responsive web applications using modern technologies. I recently completed my training at the "ШАГ" Academy and participated in the team development of a full-featured e-commerce project.
+I'm a junior Front-End developer passionate about building responsive web applications using modern technologies. I recently completed my training at the "STEP" Academy and participated in the team development of a full-featured e-commerce project.
 
 ---
 
