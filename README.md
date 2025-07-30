@@ -27,7 +27,6 @@ An Angular + Express-based online store with session-based authentication, user 
 
 - 📧 Email: teotomaks4@gmail.com  
 - 📱 Phone: +380 93 136 5937  
-- 💻 GitHub: [@teoto4](https://github.com/teoto4)
 
 ---
 
