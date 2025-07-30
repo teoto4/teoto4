@@ -14,7 +14,7 @@ I'm a junior Front-End developer passionate about building responsive web applic
 
 ## 🧩 Projects
 
-### 🎓 [Mini-Yozetka (Team Diploma Project)](https://github.com/teoto4/Mini-Yozetka)
+### 🎓 [Mini-Yozetka (Team Project)](https://github.com/sempaiveid/Mini-Yozetka)
 An Angular + Express-based online store with session-based authentication, user profiles, product management (add/edit/delete), and desktop-friendly design.
 
 <!-- Add more projects below if needed -->
